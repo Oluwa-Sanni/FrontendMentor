@@ -50,5 +50,6 @@ p .p1 .p2 .p3{
     padding-top: 0%;
     width: 129px;
     height: 32px;
-    text-align: right;
+    align-content: center;
+    justify-content: flex-start;
 }
