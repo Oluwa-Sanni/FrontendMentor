@@ -80,9 +80,8 @@ p .p1 .p2 .p3{
 }
 .attribution{
     font-size: 11px;
-    text-align: center;
-    display:flex;
-    justify-content: end;
+    display: flex;
+    justify-content: center;
 }
 .attribution a{
     color: hsl(228, 45%, 44%);
